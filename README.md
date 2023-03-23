@@ -21,6 +21,27 @@ npm start
 
 # VScode Extension
 - Prettier - Code formatter
+- Tailwind Shades
+```
+#666666
+#141b2d
+#4cceac
+#db4f4a
+#6870fa
+```
+  - macOS: cmd+k cmd+g
+  - select each color and cmd+k cmd+g
+    - VScode hack // VScode 裏技
+    - Sort Line Descending // 選択した部分を sort して入れ替える
+      - cmd+p
+        - type '>' and type or select 'Sort Line Descending'
+    - 100: コロンの後で option+cmd と ⬇ で 200: コロンの後へ // 複数行の部分一括置換
+      ```
+      100: '#2c100f',
+      200: '#58201e',
+      ```
+      - cmd+shift と ⬅ で 100: と 200: を選択してコピー(cmd+c)
+      - 同様にペースト(cmd+v)したい場所を選択して、ペーストできる
 
 # React setup
 ```
