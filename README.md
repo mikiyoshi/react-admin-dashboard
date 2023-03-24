@@ -61,10 +61,12 @@ npx create-react-app react-admin-dashboard
 [FullCalendar](https://fullcalendar.io/docs/initialize-es6)
 [nivo chart](https://nivo.rocks/pie/)
 ```
-npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
+npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar@0.7.1 formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
 ```
-
-
+# React Pro Sidebar
+- [React Pro Sidebar](https://github.com/azouaoui-med/react-pro-sidebar)
+- [React Pro Sidebar Demo](https://azouaoui-med.github.io/react-pro-sidebar/iframe.html?id=playground--playground&args=&viewMode=story)
+- [React Pro Sidebar Storybook](https://azouaoui-med.github.io/react-pro-sidebar/?path=/docs/sidebar--basic)
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
