@@ -1,5 +1,7 @@
 # React Admin Dashboard
 
+[React Admin Dashboard](https://mikiyoshi.github.io/react-admin-dashboard/build/)
+
 Completed React Admin Dashboard Repo
 
 # Initialization
