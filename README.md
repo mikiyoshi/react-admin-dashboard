@@ -89,7 +89,11 @@ npm i @fullcalendar/react@5.11.3 @fullcalendar/interaction@5.11.3
 - [Accordion](https://mui.com/material-ui/react-accordion/#basic-accordion)
   - FAQ
 - [nivo bar chart](https://nivo.rocks/bar/)
-  - chart
+  - bar
+- [nivo pie chart](https://nivo.rocks/pie/)
+  - pie
+- [nivo line chart](https://nivo.rocks/line/)
+  - line
 
 
 
