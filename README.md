@@ -94,6 +94,10 @@ npm i @fullcalendar/react@5.11.3 @fullcalendar/interaction@5.11.3
   - pie
 - [nivo line chart](https://nivo.rocks/line/)
   - line
+- [nivo Choropleth chart](https://nivo.rocks/choropleth/)
+  - geo
+    - [nivo Choropleth chart example](https://github.com/plouc/nivo/blob/master/website/src/data/components/geo/world_countries.json)
+    - [nivo Choropleth chart example json data](https://raw.githubusercontent.com/plouc/nivo/master/website/src/data/components/geo/world_countries.json)
 
 
 
