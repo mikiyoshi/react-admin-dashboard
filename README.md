@@ -58,11 +58,17 @@ npx create-react-app react-admin-dashboard
 
 # Dependencies
 
-[FullCalendar](https://fullcalendar.io/docs/initialize-es6)
-[nivo chart](https://nivo.rocks/pie/)
+- [FullCalendar](https://fullcalendar.io/docs/initialize-es6)
+- [nivo chart](https://nivo.rocks/pie/)
 ```
-npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar@0.7.1 formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
+npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar@0.7.1 formik yup @fullcalendar/core@5.11.3 @fullcalendar/daygrid@5.11.3 @fullcalendar/timegrid@5.11.3 @fullcalendar/list@5.11.3 @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
 ```
+
+```
+npm i @fullcalendar/react@5.11.3 @fullcalendar/interaction@5.11.3
+```
+
+
 # React Pro Sidebar
 - [React Pro Sidebar](https://github.com/azouaoui-med/react-pro-sidebar)
 - [React Pro Sidebar Demo](https://azouaoui-med.github.io/react-pro-sidebar/iframe.html?id=playground--playground&args=&viewMode=story)
@@ -74,11 +80,12 @@ npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-m
   - team
 - [FORMIK](https://formik.org/docs/examples/with-material-ui)
   - form
-- [React Form](https://blog.logrocket.com/using-material-ui-with-react-hook-form/)
-  - form
-- [React hook form](https://react-hook-form.com/get-started)
-  - form
-
+  - [React Form](https://blog.logrocket.com/using-material-ui-with-react-hook-form/)
+    - form
+  - [React hook form](https://react-hook-form.com/get-started)
+    - form
+- [FullCalendar](https://fullcalendar.io/docs/initialize-es6)
+  - calender
 
 
 
