@@ -86,6 +86,10 @@ npm i @fullcalendar/react@5.11.3 @fullcalendar/interaction@5.11.3
     - form
 - [FullCalendar](https://fullcalendar.io/docs/initialize-es6)
   - calender
+- [Accordion](https://mui.com/material-ui/react-accordion/#basic-accordion)
+  - FAQ
+- [nivo bar chart](https://nivo.rocks/bar/)
+  - chart
 
 
 

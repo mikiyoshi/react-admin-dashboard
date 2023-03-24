@@ -100,6 +100,7 @@ const Calendar = () => {
               left: 'prev,next today',
               center: 'title',
               right: 'dayGridMonth,timeGridWeek,timeGridDay,listMonth',
+              // dayGridMonth,timeGridWeek のように空白を開けないこと！ dayGridMonth, timeGridWeek 空白ボタンができるエラーになる
             }}
             initialView="dayGridMonth"
             editable={true}
