@@ -99,7 +99,7 @@ const Sidebar = () => {
                   alt="profile-user"
                   width="100px"
                   height="100px"
-                  src={`../../build/assets/user.png`}
+                  src={`/react-admin-dashboard/build/assets/user.png`}
                   style={{ cursor: 'pointer', borderRadius: '50%' }}
                 />
               </Box>
