@@ -2,6 +2,15 @@
 
 [React Admin Dashboard](https://mikiyoshi.github.io/react-admin-dashboard/build/)
 
+- Github Pages
+  - Settings
+    - Pages
+      - Source: Deploy from a branch
+      - Branch: main and /(root)
+        - save
+- Once the configuration is complete, any folder or hierarchy will be published as long as it is a static page.
+- 設定が完了すれば static page であればどのフォルダー、階層でも publish される
+
 Completed React Admin Dashboard Repo
 
 # Initialization
